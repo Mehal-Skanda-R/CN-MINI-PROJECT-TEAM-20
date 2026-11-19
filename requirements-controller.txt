@@ -1,0 +1,2 @@
+# Python dependency for Member 1's SDN controller.
+ryu==4.34
